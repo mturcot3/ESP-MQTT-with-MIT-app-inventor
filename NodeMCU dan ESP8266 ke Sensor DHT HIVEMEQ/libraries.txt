@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+dht11esp8266
+DHT22
+PubSubClient
+MQTTPubSubClient
+ArduinoJson
